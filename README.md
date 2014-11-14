@@ -1,4 +1,4 @@
-DogecoinDark PaperWallet version 1!  11/14/2014
+DogecoinDark PaperWallet version 2!  11/14/2014
 
 This project is a fork of bitaddress.org, the original trustworthy
 JavaScript powered offline bitcoin address generator. 
@@ -12,3 +12,7 @@ or even rolling dice or shuffling cards.
 
 This generator also includes support and designs for making
 DogecoinDark classic or alternate graphic "remix" paper wallets.
+
+the zipfile including the necessary graphics can be found on our website:
+
+http://dogecoindark.net/downloads/paper-wallet-v2.rar
